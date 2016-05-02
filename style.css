@@ -1,1 +1,37 @@
-style.css
+.stopLight {
+	background: grey;
+	width: 100px;
+	height: 500px;
+	border: 10px solid black;
+	text-align:center;
+}
+
+.red {
+	width: 50%;
+	height: 20%;
+	background: red;
+	border: 2px solid black;
+	margin-bottom: 25%;
+	margin-top: 25%;
+	display: inline-block;
+}
+
+.yellow {
+	width: 50%;
+	height: 20%;
+	background: yellow;
+	border: 2px solid black;
+	margin-bottom: 25%;
+	margin-top: 25%;
+	display: inline-block;
+}
+
+.green {
+	width: 50%;
+	height: 20%;
+	background: green;
+	border: 2px solid black;
+	margin-bottom: 25%;
+	margin-top: 25%;
+	display: inline-block;
+}
