@@ -23,5 +23,4 @@ light.onclick = function(){
 		yellow[0].setAttribute("style", "background: none");
 		lightNum = 0;
 	}
-	console.log('CLICKED YELLOW!: ', yellow);
 }
