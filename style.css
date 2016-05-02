@@ -19,7 +19,7 @@
 .yellow {
 	width: 50%;
 	height: 20%;
-	background: yellow;
+	background: none;
 	border: 2px solid black;
 	margin-bottom: 25%;
 	margin-top: 25%;
@@ -29,7 +29,7 @@
 .green {
 	width: 50%;
 	height: 20%;
-	background: green;
+	background: none;
 	border: 2px solid black;
 	margin-bottom: 25%;
 	margin-top: 25%;
